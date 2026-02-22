@@ -1,0 +1,11 @@
+
+.box{
+
+    width: 30%;
+    margin: 20px auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    color: white;
+    border-radius: 5px;
+    text-align: left;
+}

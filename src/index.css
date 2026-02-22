@@ -1,0 +1,33 @@
+.light{
+  background-color: white;
+  color: black;
+}
+
+.dark{
+  background-color: black;
+  color: white;
+}
+
+.light .nav-container{
+  background-color: white;
+}
+
+.dark .nav-container{
+  background-color: black;
+}
+
+.light .nav-link{
+  color: black;
+}
+
+.dark .nav-link{
+  color: white;
+}
+
+.light .product-heading{
+  color: black;
+}
+
+.dark .product-heading{
+  color: white;
+}
