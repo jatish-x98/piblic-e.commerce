@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/piblic-e.commerce/static/css/main.e3359057.css",
+    "main.js": "/piblic-e.commerce/static/js/main.14079ba4.js",
+    "static/js/453.20359781.chunk.js": "/piblic-e.commerce/static/js/453.20359781.chunk.js",
+    "index.html": "/piblic-e.commerce/index.html",
+    "main.e3359057.css.map": "/piblic-e.commerce/static/css/main.e3359057.css.map",
+    "main.14079ba4.js.map": "/piblic-e.commerce/static/js/main.14079ba4.js.map",
+    "453.20359781.chunk.js.map": "/piblic-e.commerce/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3359057.css",
+    "static/js/main.14079ba4.js"
+  ]
+}
